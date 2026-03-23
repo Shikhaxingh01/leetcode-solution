@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Stack
 |  |
 | ------- |
