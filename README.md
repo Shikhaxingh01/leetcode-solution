@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2573-find-the-string-with-lcp](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2573-find-the-string-with-lcp) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2573-find-the-string-with-lcp](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2573-find-the-string-with-lcp) |
 ## Stack
 |  |
 | ------- |
@@ -90,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## String
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2573-find-the-string-with-lcp) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
