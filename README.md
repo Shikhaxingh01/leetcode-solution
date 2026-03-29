@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Union-Find
 |  |
 | ------- |
