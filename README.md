@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2573-find-the-string-with-lcp) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0657-robot-return-to-origin) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
