@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2463-minimum-total-distance-traveled](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2463-minimum-total-distance-traveled](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2463-minimum-total-distance-traveled](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
