@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0874-walking-robot-simulation](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0874-walking-robot-simulation) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [3488-closest-equal-element-queries](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Design
