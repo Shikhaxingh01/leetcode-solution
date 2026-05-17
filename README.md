@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0874-walking-robot-simulation](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0874-walking-robot-simulation) |
+| [1306-jump-game-iii](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1306-jump-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -169,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1306-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
