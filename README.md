@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0874-walking-robot-simulation) |
 | [2784-check-if-array-is-good](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Union-Find
 |  |
 | ------- |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1306-jump-game-iii) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
