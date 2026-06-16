@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3612-process-string-with-special-operations-i](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## String
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3612-process-string-with-special-operations-i](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3612-process-string-with-special-operations-i) |
 ## Union-Find
 |  |
 | ------- |
