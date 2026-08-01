@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0486-predict-the-winner](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0874-walking-robot-simulation](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0874-walking-robot-simulation) |
 | [1306-jump-game-iii](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0486-predict-the-winner](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -205,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Shikhaxingh01/leetcode-solution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
